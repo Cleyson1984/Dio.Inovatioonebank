@@ -14,7 +14,5 @@ class Pessoa{
 
 fun main() {
     val Cleyson = Pessoa()
-
-    println(Cleyson)
     println(Cleyson.pessoaInfo())
 }
